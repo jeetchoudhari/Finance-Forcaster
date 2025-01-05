@@ -1,7 +1,7 @@
 # Finance-Forcaster
 
-**To Run:**
-Go to server using cd server
-Start Sever using npm run dev
-Go to client using cd client
+**To Run:**<br>
+Go to server using cd server<br>
+Start Sever using npm run dev<br>
+Go to client using cd client<br>
 Start client using npm run dev
